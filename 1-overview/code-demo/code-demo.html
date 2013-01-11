@@ -25,7 +25,7 @@
 	var info = document.createElement( 'div' );
 	document.body.appendChild( info );
 	info.style.cssText = 'top: 0px; color: #fff; padding: 5px; position: absolute; width: 100%';
-	info.innerHTML = 'abcde ~ howdy ~ 12345';
+	info.innerHTML = 'not even a pre-proto-autogen';
 
   var renderer, scene, camera, controls, light, stats;
   var geometry, material, mesh;
@@ -48,7 +48,7 @@
 		// scene.position.set(0, 0, 0);
 
     camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 10000 );
-    camera.position.set(100, 100, -100);
+    camera.position.set(50, 50, -50);
 
 		controls = new THREE.TrackballControls( camera, renderer.domElement );
 
@@ -131,8 +131,10 @@
     camera.lookAt( scene.position);
     
     for (var i = 7, l = scene.children.length; i < l; i++) {
-      scene.children[i].rotation.x = Date.now() * 0.0005;
-      scene.children[i].rotation.y = Date.now() * 0.001;
+      var obj = scene.children[i];
+      obj.rotation.x += 0.01;
+      obj.rotation.y += 0.005;
+      obj.position.y = 5 + Math.sin( obj.rotation.x ) * 20;
     }
     
     renderer.render( scene, camera );

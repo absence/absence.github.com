@@ -5,4 +5,4 @@ This web site provides helpful, supportive and supplementary material for _Incom
 
 A summary is avalable here: [absence.github.com] (http://absence.github.com)
 
-A wiki with further material is avaiable here: [https://github.com/absence/absence.github.com/wiki]
+A wiki with further material is avaiable here: https://github.com/absence/absence.github.com/wiki

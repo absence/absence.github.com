@@ -30,7 +30,7 @@ var list = {
 		],
     'Explanations': [
       ['Read Me', '3-explanations/0-readme/Read-Me'],
-      ['Absential', '3-explanations/absential/Absential'],
+      ['Absential', '3-explanations/absential/absential'],
       ['Autogen', '3-explanations/autogen/autogen'],
       ['Constraints', '3-explanations/constraints/constraints'],
       ['Emergence', '3-explanations/emergence/emergence'],

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang='en'>
 <head>
-<title>boilerplate</title>
+<title>code-demo</title>
 <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0'>
 </head>
@@ -20,7 +20,7 @@
 <script type='text/javascript'>
 	if ( ! Detector.webgl ) { Detector.addGetWebGLMessage(); }
 
-  document.body.style.cssText = 'background-color: #000; font: 12px monospace; margin: 0; overflow: hidden; text-align: center';
+    document.body.style.cssText = 'background-color: #000; font: 12px monospace; margin: 0; overflow: hidden; text-align: center';
 
 	var info = document.createElement( 'div' );
 	document.body.appendChild( info );
@@ -37,20 +37,21 @@
   animate();
 
    function init() {
+    
 		var color, i;
 		renderer = new THREE.WebGLRenderer( { clearColor: 0x000000, clearAlpha: 1, antialias: true } );
     renderer.setSize( window.innerWidth, window.innerHeight );
 		renderer.shadowMapEnabled = true;
 		renderer.shadowMapSoft = true;
-    document.body.appendChild( renderer.domElement );
-
+    document.body.appendChild( renderer.domElement );    
     scene = new THREE.Scene();
-		// scene.position.set(0, 0, 0);
-
     camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 10000 );
-    camera.position.set(50, 50, -50);
-
+    camera.position.set(50, 50, -50);    
 		controls = new THREE.TrackballControls( camera, renderer.domElement );
+ 
+		stats = new Stats();
+		stats.domElement.style.cssText = 'position: absolute; top: 0px; zIndex: 100; ';
+		document.body.appendChild( stats.domElement ); 
 
 		light = new THREE.AmbientLight( 0xffffff );
 		scene.add( light );
@@ -120,9 +121,7 @@
 		obj.position.set(0, -50, 0);
 		scene.add( obj );
 
-		stats = new Stats();
-		stats.domElement.style.cssText = 'position: absolute; top: 0px; zIndex: 100; ';
-		document.body.appendChild( stats.domElement );
+
   }
 
   function animate() {

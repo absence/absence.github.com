@@ -5,17 +5,16 @@ var onDocumentLoad = function ( event ) {
 	var name = /[\-A-z0-9]+\.html/.exec( window.location.pathname ).toString().split( '.html' )[ 0 ];
 
 	if ( section == '1-overview' ) {
-
-		// name = name.replace(/\-/g, ' ');
-
 		path = window.location.pathname.replace( /\ /g, '_' );
-   
 		path = /\/1-overview\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
- console.log('lll',path, section, name);
-	} else {
-    // path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 5 );
-		path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 1 );
-console.log(path, section, name);
+ console.log('11 ',path, section, name);
+	} else if ( section == '2-summary' ) {
+		path = window.location.pathname.replace( /\ /g, '_' );
+		path = /\/1-overview\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
+ console.log('22 ',path, section, name);  
+  
+		path = /\/3-explanations\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 1 );
+console.log('33 ',path, section, name);
 	}
 
 

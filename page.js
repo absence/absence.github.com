@@ -4,13 +4,13 @@ var onDocumentLoad = function ( event ) {
 	var section = /\/(1-overview|2-summary|3-explanations)\//.exec( window.location.pathname )[ 1 ].toString().split( '.html' )[ 0 ];
 	var name = /[\-A-z0-9]+\.html/.exec( window.location.pathname ).toString().split( '.html' )[ 0 ];
 
-	if ( section == 'manual' ) {
+	if ( section == '1-overview' ) {
 
-		name = name.replace(/\-/g, ' ');
+		// name = name.replace(/\-/g, ' ');
 
-		path = window.location.pathname.replace( /\ /g, '_' );
+		// path = window.location.pathname.replace( /\ /g, '_' );
  console.log('lll',path, section, name);   
-		path = /\/3-explanations\/[-a-z0-9\/]+/.exec( path ).toString().substr( 16 );
+		path = /\/1-overview\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
 
 	} else {
     // path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 5 );

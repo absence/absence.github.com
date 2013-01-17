@@ -14,7 +14,7 @@ var onDocumentLoad = function ( event ) {
  console.log('22 ',path, section, name);  
   } else {
     path = window.location.pathname.replace( /\ /g, '_' );
-		path = /\/3-explanations\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 1 );
+		path = /\/3-explanations\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
 console.log('33 ',path, section, name);
 	}
 

@@ -10,7 +10,7 @@ var onDocumentLoad = function ( event ) {
  console.log('11 ',path, section, name);
 	} else if ( section == '2-summary' ) {
 		path = window.location.pathname.replace( /\ /g, '_' );
-		path = /\/1-overview\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
+		path = /\/2-summary\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
  console.log('22 ',path, section, name);  
   
 		path = /\/3-explanations\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 1 );

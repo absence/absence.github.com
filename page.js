@@ -14,7 +14,7 @@ var onDocumentLoad = function ( event ) {
 
 	} else {
     // path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 5 );
-		path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString();
+		path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 1 );
 console.log(path, section, name);
 	}
 

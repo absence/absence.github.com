@@ -8,10 +8,10 @@ var onDocumentLoad = function ( event ) {
 
 		// name = name.replace(/\-/g, ' ');
 
-		// path = window.location.pathname.replace( /\ /g, '_' );
- console.log('lll',path, section, name);   
+		path = window.location.pathname.replace( /\ /g, '_' );
+   
 		path = /\/1-overview\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
-
+ console.log('lll',path, section, name);
 	} else {
     // path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 5 );
 		path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 1 );

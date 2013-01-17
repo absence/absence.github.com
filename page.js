@@ -13,8 +13,8 @@ var onDocumentLoad = function ( event ) {
 		path = /\/3-explanations\/[-a-z0-9\/]+/.exec( path ).toString().substr( 16 );
 
 	} else {
-
-		path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 5 );
+    // path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 5 );
+		path = /\/(1-overview|2-summary|3-explanations)\/[A-z0-9\/]+/.exec( window.location.pathname ).toString().substr( 2 );
 console.log(path, section, name);
 	}
 
@@ -40,7 +40,7 @@ console.log(path, section, name);
 	button.addEventListener( 'click', function ( event ) {
 
 		// window.open( 'https://github.com/absence/absence.github.com/blob/master/' + section + '/' + path + '.html' );
-    window.open( 'https://github.com/absence/absence.github.com/blob/master/' + '/' + path + '.html' );
+    window.open( 'https://github.com/absence/absence.github.com/blob/master/'  + path + '.html' );
 
 	}, false );
 

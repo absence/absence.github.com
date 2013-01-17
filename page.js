@@ -39,7 +39,7 @@ console.log(path, section, name);
 
 	button.addEventListener( 'click', function ( event ) {
 
-		window.open( 'https://github.com/mrdoob/three.js/blob/dev/docs/' + section + '/' + path + '.html' );
+		window.open( 'https://github.com/absence/absence.github.com/blob/master/' + section + '/' + path + '.html' );
 
 	}, false );
 

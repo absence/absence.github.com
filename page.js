@@ -39,7 +39,8 @@ console.log(path, section, name);
 
 	button.addEventListener( 'click', function ( event ) {
 
-		window.open( 'https://github.com/absence/absence.github.com/blob/master/' + section + '/' + path + '.html' );
+		// window.open( 'https://github.com/absence/absence.github.com/blob/master/' + section + '/' + path + '.html' );
+    window.open( 'https://github.com/absence/absence.github.com/blob/master/' + '/' + path + '.html' );
 
 	}, false );
 

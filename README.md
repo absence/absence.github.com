@@ -10,6 +10,10 @@ A wiki with further material is avaiable here: https://github.com/absence/absenc
 
 ### Change Log
 
+2013-01-19 ~ Theo
+* Tidied code, added links to key words chapter 3
+* Added summary for: The ghost in the computer - p92
+
 2013-01-18 ~ Theo
 * renamed some titles
 * cleaned up code - indents, spacing - some more

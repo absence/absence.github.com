@@ -10,6 +10,9 @@ A wiki with further material is avaiable here: https://github.com/absence/absenc
 
 ### Change Log
 
+2013-01-20 ~ Theo
+* Chapter 3: added summary to last section, edited summery/links to first section.
+
 2013-01-19 ~ Theo
 * Tidied code, added links to key words chapter 3
 * Added summary for: The ghost in the computer - p92

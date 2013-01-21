@@ -10,6 +10,12 @@ A wiki with further material is avaiable here: https://github.com/absence/absenc
 
 ### Change Log
 
+2013-01-21 ~ Theo
+* Summary: Changed left panel contents list so 'Summary' becomes 'Part 1', 'Part 2', 'Part 3'
+* Wiki: added Road Map
+* Issues: Added email from Paul M
+* Summary: Chapter 4, sections 1 & 2: adding keywords, links to key words
+
 2013-01-20 ~ Theo
 * Chapter 3: added summary to last section, edited summery/links to first section.
 

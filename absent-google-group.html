@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Absent Google Group</title>
+<meta charset='utf-8'>
+<meta name='author' content='Theo Armour'>
+</head>
+<body>
+<script type='text/javascript'>
+document.body.style.font = 'bold 12pt monospace';
+var info = document.createElement( 'div' );
+document.body.appendChild( info );
+info.innerHTML='howdy';
+</script>
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/absent'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
+</body>
+</html>

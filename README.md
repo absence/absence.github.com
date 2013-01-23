@@ -3,13 +3,17 @@ absence.github.com
 
 This web site provides helpful, supportive and supplementary material for _Incomplete Nature_, a book by Terence Deacon.
 
-A summary is avalable here: [absence.github.com] (http://absence.github.com)
+A summary of the book - a work-in-progress - is available here: [absence.github.com] (http://absence.github.com)
 
-A wiki with further material is avaiable here: https://github.com/absence/absence.github.com/wiki
+A wiki with further material is available here: https://github.com/absence/absence.github.com/wiki
 
 
 ### Change Log
 
+2013-01-23 ~ Theo
+* Summary, Chapter 4: added links and text to section 2. Also general spell-checking.
+* Google Group: 'absence': this name is already taken.
+ 
 2013-01-21 ~ Theo
 * Summary: Changed left panel contents list so 'Summary' becomes 'Part 1', 'Part 2', 'Part 3'
 * Wiki: added Road Map

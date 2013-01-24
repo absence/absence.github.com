@@ -6,14 +6,16 @@ var onDocumentLoad = function ( event ) {
 
 	if ( section == '1-overview' ) {
 		path = window.location.pathname.replace( /\ /g, '_' );
+		
 		path = /\/1-overview\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
- console.log('11 ',path, section, name);
+console.log('11 ', path, section, name);
+ 
 	} else if ( section == '2-summary' ) {
 		path = window.location.pathname.replace( /\ /g, '_' );
 		path = /\/2-summary\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
- console.log('22 ',path, section, name);  
-  } else {
-    path = window.location.pathname.replace( /\ /g, '_' );
+console.log('22 ',path, section, name);  
+	} else {
+		path = window.location.pathname.replace( /\ /g, '_' );
 		path = /\/3-explanations\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
 console.log('33 ',path, section, name);
 	}

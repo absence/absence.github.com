@@ -10,6 +10,12 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-01-24 ~ Theo
+* Summary, Chapter 4: added more links, added summary to section 3.
+* More spell-checking throughout.
+* Added 'Fellow Travelers page' to GitHub Wiki with half dozen names and links
+* Added goals to Road Map
+
 2013-01-23 ~ Theo
 * Summary, Chapter 4: added links and text to section 2. Also general spell-checking.
 * Google Group: 'absence': this name is already taken.

@@ -1,9 +1,10 @@
 var list = {
 	'Summary': {
     'Overview': [
-      [ 'Overview','1-overview/overview/overview' ],
-      [ 'Absence Code Demo','1-overview/code-demo/Absence-Code-Demo' ],
-      [ 'Colophon','1-overview/colophon/Colophon' ]
+      [ 'Home Page','1-overview/category/Home Page' ],
+      [ 'Absence Code Demo','1-overview/category/Absence-Code-Demo' ],
+      [ 'Credits','1-overview/category/Credits' ],
+	  [ 'License','1-overview/category/License' ]
     ],
 		'Part 1 ~ Outlining the Problem': [
       [ 'Read Me','2-summary/000-readme/readme' ],

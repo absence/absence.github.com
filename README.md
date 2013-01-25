@@ -12,7 +12,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 2013-01-25 ~ Theo
 * Summary, overview: Added MIT license, started simplifying folder structure
-* Summary, Capter 4, section 4: added links and summary
+* Summary, Chapter 4, section 4: added links and summary
 
 2013-01-24 ~ Theo
 * Summary, Chapter 4: added more links, added summary to section 3.

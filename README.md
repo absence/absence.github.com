@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-01-26 ~ Theo
+* Summary, code: update to latest version of my docTree JavaScript file.
+* Summary, Chapter 1: minor clean up.
+* Summary, Chapter 4, section 5: added links and summary
+
 2013-01-25 ~ Theo
 * Summary, overview: Added MIT license, started simplifying folder structure
 * Summary, Chapter 4, section 4: added links and summary

@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-01-27 ~ Theo
+* Summary, chapter 4, section 6: adding summary. A few edits throughtout the chapter
+
 2013-01-26 ~ Theo
 * Summary, code: update to latest version of my docTree JavaScript file.
 * Summary, Chapter 1: minor clean up.

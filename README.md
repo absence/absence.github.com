@@ -10,12 +10,17 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-01-29 ~ Theo
+* Home pages: edits to help clarify what resources are available and where
+* Summary, Read Me: added section on the objectives of the book
+* Summary, Chapter 1; added to the summary, cleaned up the HTML
+
 2013-01-27 ~ Theo
-* Summary, chapter 4, section 6: adding summary. A few edits throughtout the chapter
+* Summary, Chapter 4, section 6: adding summary. A few edits throughtout the chapter
 
 2013-01-26 ~ Theo
-* Summary, code: update to latest version of my docTree JavaScript file.
-* Summary, Chapter 1: minor clean up.
+* Summary, code: update to latest version of my docTree JavaScript file
+* Summary, Chapter 1: minor clean ups
 * Summary, Chapter 4, section 5: added links and summary
 
 2013-01-25 ~ Theo
@@ -23,7 +28,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 * Summary, Chapter 4, section 4: added links and summary
 
 2013-01-24 ~ Theo
-* Summary, Chapter 4: added more links, added summary to section 3.
+* Summary, Chapter 4: added more links, added summary to section 3
 * Summary: More spell-checking throughout.
 * Wiki: Added 'Fellow Travelers page' to GitHub Wiki with half dozen names and links
 * Wiki: Added goals to Road Map

@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-01-30 ~ Theo
+* Summary, Chapter 1, section 1; editing the summary
+* Style sheet: started looking at how to handle blockquote.
+
 2013-01-29 ~ Theo
 * Home pages: edits to help clarify what resources are available and where
 * Summary, Read Me: added section on the objectives of the book

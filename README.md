@@ -10,8 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-01-31 ~ Theo
+* Summary, Chapter 0, section 2: adding a summary
+
 2013-01-30 ~ Theo
-* Summary, Chapter 1, section 1; editing the summary
+* Summary, Chapter 0, section 1: editing the summary
 * Style sheet: started looking at how to handle blockquote.
 
 2013-01-29 ~ Theo

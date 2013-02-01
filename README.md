@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-01 ~ Theo
+* Summary, Chapter 0, sections 3-5: adding summaries and links
+* Summary, Chapter 0: general edits throughout
+* Wiki: added note regarding Deacon's dismissal of _autopoesis_
+
 2013-01-31 ~ Theo
 * Summary, Chapter 0, section 2: adding a summary
 

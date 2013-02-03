@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-03 ~ Theo
+* Chapter 5: added quote, definition.
+* Chapter 5, section 1: added summary links
+
 2013-02-01 ~ Theo
 * Summary, Chapter 0, sections 3-5: adding summaries and links
 * Summary, Chapter 0: general edits throughout

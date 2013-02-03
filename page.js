@@ -7,7 +7,7 @@ var onDocumentLoad = function ( event ) {
 	if ( section == '1-overview' ) {
 		path = window.location.pathname.replace( /\ /g, '_' );
 // note: lower case only. Why?
-		path = /\/1-overview\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 );
+		path = /\/1-overview\/[-A-z0-9\/]+/.exec( path ).toString().substr( 1 );
 	} else if ( section == '2-summary' ) {
 		path = window.location.pathname.replace( /\ /g, '_' );
 		path = /\/2-summary\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 ); 

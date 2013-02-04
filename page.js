@@ -5,9 +5,13 @@ var onDocumentLoad = function ( event ) {
 	var name = /[\-A-z0-9]+\.html/.exec( window.location.pathname ).toString().split( '.html' )[ 0 ];
 
 	if ( section == '1-overview' ) {
+		name = name.replace(/\-/g, ' ');
+	
 		path = window.location.pathname.replace( /\ /g, '_' );
+// console.log('p1',path);			
 // note: lower case only. Why?
-		path = /\/1-overview\/[A-z0-9\/]+/.exec( path ).toString().substr( 1 );
+		path = /\/1-overview\/[-A-z0-9\/]+/.exec( path ).toString().substr( 1 );
+// console.log(path);		
 	} else if ( section == '2-summary' ) {
 		path = window.location.pathname.replace( /\ /g, '_' );
 		path = /\/2-summary\/[-a-z0-9\/]+/.exec( path ).toString().substr( 1 ); 

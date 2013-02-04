@@ -1,7 +1,7 @@
 var list = {
   'Summary': {
     'Overview': [
-      [ 'Home Page','1-overview/category/Home Page' ],
+      [ 'Home Page','1-overview/category/Home-Page' ],
       [ 'Absence Code Demo','1-overview/category/Absence-Code-Demo' ],
       [ 'Credits','1-overview/category/Credits' ],
 	  [ 'License','1-overview/category/License' ]

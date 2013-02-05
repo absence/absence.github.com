@@ -1,19 +1,19 @@
 var list = {
   'Summary': {
     'Overview': [
-      [ 'Home Page','1-overview/category/Home-Page' ],
-      [ 'Absence Code Demo','1-overview/category/Absence-Code-Demo' ],
-      [ 'Credits','1-overview/category/Credits' ],
-	  [ 'License','1-overview/category/License' ]
+      [ 'Home Page','1-overview/overview/Home-Page' ],
+      [ 'Absence Code Demo','1-overview/overview/Absence-Code-Demo' ],
+      [ 'Credits','1-overview/overview/Credits' ],
+	  [ 'License','1-overview/overview/License' ]
     ],
 	'Part 1 ~ Outlining the Problem': [
-      [ 'Read Me','2-summary/000-readme/readme' ],
-      [ 'Chapter 0 ~ Absence','2-summary/00-absence/absence' ],
-      [ 'Chapter 1 ~ (W)holes','2-summary/01-w-holes/w-holes' ],
-      [ 'Chapter 2 ~ Homunculi','2-summary/02-homunculi/homunculi' ],
-      [ 'Chapter 3 ~ Golems','2-summary/03-golems/golems' ],
-      [ 'Chapter 4 ~ Teleonomy','2-summary/04-teleonomy/teleonomy' ],
-      [ 'Chapter 5 ~ Emergence','2-summary/05-emergence/emergence' ],
+      [ 'Read Me','2-summary/1part/000readme' ],
+      [ 'Chapter 0 ~ Absence','2-summary/1part/00absence' ],
+      [ 'Chapter 1 ~ (W)holes','2-summary/1part/01w-holes' ],
+      [ 'Chapter 2 ~ Homunculi','2-summary/1part/02homunculi' ],
+      [ 'Chapter 3 ~ Golems','2-summary/1part/03golems' ],
+      [ 'Chapter 4 ~ Teleonomy','2-summary/1part/04teleonomy' ],
+      [ 'Chapter 5 ~ Emergence','2-summary/1part/05emergence' ],
     ],
 	'Part 2 ~ Outlining an Alternative Theory': [      
       [ 'Chapter 6 ~ Constraint','2-summary/06-constraint/constraint' ],

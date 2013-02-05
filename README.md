@@ -10,6 +10,13 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-05 ~ Theo
+* docTree: simplifying the folder structure, using parts not chapters, renaming files.
+* Chapter 3: added Wikipedia image of Golem
+* Chapter 5, section 3: added summary
+* Chapter 5, started section 4 and cleaning up format of remaing sections.
+
+
 2013-02-04 ~ Theo
 * Summary: fixed bug previnting home page from being edited
 * Summary, Chapter 5, section 2: added summary and links

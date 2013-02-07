@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-07 ~ Theo
+* Chapter 5: added links to wikipedia and explanations definitions of emergence
+* Chapter 5: Added more Wikipedia links.
+* Chapter 5: section 5: added summary
+
 2013-02-06 ~ Theo
 * Chapter 5m section 4: still working on summary - complex stuff 
 

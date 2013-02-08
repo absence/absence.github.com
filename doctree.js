@@ -74,9 +74,9 @@
 		var hdr = document.getElementById('h' + id);	
 		if ( cat.style.display == '' || cat.style.display == 'block' ) {
 			cat.style.display = 'none';	
-			hdr.innerHTML = '+ ' + hdr.innerHTML.substr(2);
+			hdr.innerHTML = '[+] ' + hdr.innerHTML.substr(3);
 		} else {
 			cat.style.display = 'block';
-			hdr.innerHTML = '- ' + hdr.innerHTML.substr(2);
+			hdr.innerHTML = '[-] ' + hdr.innerHTML.substr(3);
 		}	
 	}

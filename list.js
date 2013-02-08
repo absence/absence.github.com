@@ -16,11 +16,11 @@ var list = {
       [ 'Chapter 5 ~ Emergence','2-summary/1part/05emergence' ],
     ],
 	'Part 2 ~ Outlining an Alternative Theory': [      
-      [ 'Chapter 6 ~ Constraint','2-summary/06-constraint/constraint' ],
-      [ 'Chapter 7 ~ Homeodynamics','2-summary/07-homeodynamics/homeodynamics' ],
-      [ 'Chapter 8 ~ Morphodynamics','2-summary/08-morphodynamics/morphodynamics' ],
-      [ 'Chapter 9 ~ Teleodynamics','2-summary/09-teleodynamics/teleodynamics' ],
-      [ 'Chapter 10 ~ Autogenesis','2-summary/10-autogenesis/autogenesis' ],
+      [ 'Chapter 6 ~ Constraint','2-summary/2part/constraint' ],
+      [ 'Chapter 7 ~ Homeodynamics','2-summary/2part/homeodynamics' ],
+      [ 'Chapter 8 ~ Morphodynamics','2-summary/2part/morphodynamics' ],
+      [ 'Chapter 9 ~ Teleodynamics','2-summary/2part/teleodynamics' ],
+      [ 'Chapter 10 ~ Autogenesis','2-summary/2part/autogenesis' ],
     ],
 	'Part 3 ~ Exploring the Implications': [       
       [ 'Chapter 11 ~ Work','2-summary/11-work/work' ],

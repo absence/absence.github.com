@@ -10,9 +10,13 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-08 ~ Theo
+* docTree: Part 2 now has the simpler folder structure.
+* Chapter 5: section 6: added summary and links
+
 2013-02-07 ~ Theo
 * Chapter 5: added links to wikipedia and explanations definitions of emergence
-* Chapter 5: Added more Wikipedia links.
+* Chapter 5: Added more Wikipedia links
 * Chapter 5: section 5: added summary
 
 2013-02-06 ~ Theo
@@ -20,10 +24,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 
 2013-02-05 ~ Theo
-* docTree: simplifying the folder structure, using parts not chapters, renaming files.
+* docTree: simplifying the folder structure, using parts not chapters, renaming files
 * Chapter 3: added Wikipedia image of Golem
 * Chapter 5, section 3: added summary
-* Chapter 5, started section 4 and cleaning up format of remaing sections.
+* Chapter 5, started section 4 and cleaning up format of remaing sections
 
 
 2013-02-04 ~ Theo

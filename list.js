@@ -23,14 +23,14 @@ var list = {
       [ 'Chapter 10 ~ Autogenesis','2-summary/2part/autogenesis' ],
     ],
 	'Part 3 ~ Exploring the Implications': [       
-      [ 'Chapter 11 ~ Work','2-summary/11-work/work' ],
-      [ 'Chapter 12 ~ Information','2-summary/12-information/information' ],
-      [ 'Chapter 13 ~ Significance','2-summary/13-significance/significance' ],
-      [ 'Chapter 14 ~ Evolution','2-summary/14-evolution/evolution' ],
-      [ 'Chapter 15 ~ Self','2-summary/15-self/self' ],
-      [ 'Chapter 16 ~ Sentience','2-summary/16-sentience/sentience' ],
-      [ 'Chapter 17 ~ Consciousness','2-summary/17-consciousness/consciousness' ],
-      [ 'Epilogue','2-summary/18-epilogue/epilogue' ]
+      [ 'Chapter 11 ~ Work','2-summary/3part/work' ],
+      [ 'Chapter 12 ~ Information','2-summary/3part/information' ],
+      [ 'Chapter 13 ~ Significance','2-summary/3part/significance' ],
+      [ 'Chapter 14 ~ Evolution','2-summary/3part/evolution' ],
+      [ 'Chapter 15 ~ Self','2-summary/3part/self' ],
+      [ 'Chapter 16 ~ Sentience','2-summary/3part/sentience' ],
+      [ 'Chapter 17 ~ Consciousness','2-summary/3part/consciousness' ],
+      [ 'Epilogue','2-summary/3part/epilogue' ]
 		],
     'Explanations': [
       ['Read Me', '3-explanations/0-readme/Read-Me'],

@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-09 ~ Theo
+* docTree: Part 3 now has the simpler folder structure.
+* Chapter 5: section 7: added summary and links
+
 2013-02-08 ~ Theo
 * docTree: Part 2 now has the simpler folder structure.
 * Chapter 5: section 6: added summary and links

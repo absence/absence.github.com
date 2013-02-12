@@ -11,6 +11,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 ### Change Log
 
 2013-02-10 ~ Theo
+* Chapter 5: editing summaries sections 5-7 and chapter summary
+* Chapter 1: editing the section summaries, adding a chapter summary
+
+2013-02-10 ~ Theo
 * Chapter 5: editing summaries sections 1-4
 
 2013-02-09 ~ Theo

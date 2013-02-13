@@ -1,9 +1,4 @@
-  @font-face {
-    font-family: 'inconsolata';
-    src: url('inconsolata.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
+
 
   html {
     height: 100%;
@@ -14,7 +9,7 @@
     padding: 0;
     height: 100%;
     color: #555;
-    font-family: 'inconsolata';
+    font-family: 'inconsolata', monospace;
     font-size: 15px;
     line-height: 18px;
     overflow: hidden;

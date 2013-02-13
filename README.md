@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-13 ~ Theo
+* index.html and style.css: edit so docTree draws Inconsolata font from Google Fonts
+* Chapter 1: editing text and layout thoughout
+* Chapter 1, section 1: adding summary, editing and adding text
+
 2013-02-10 ~ Theo
 * Chapter 5: editing summaries sections 5-7 and chapter summary
 * Chapter 1: editing the section summaries, adding a chapter summary

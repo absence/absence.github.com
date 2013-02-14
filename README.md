@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-14 ~ Theo
+* list.js, summary files: renaming
+* Parts: added three part summary filea and moved relevant data to them
+* Overview: added book sumary and moved relevant data there
+
 2013-02-13 ~ Theo
 * index.html and style.css: edit so docTree draws Inconsolata font from Google Fonts
 * Chapter 1: editing text and layout thoughout

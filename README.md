@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-15 ~ Theo
+* Book Summery: edits, adding headers
+* Chapter 1, section 2: adding to summary, editing and adding text
+
 2013-02-14 ~ Theo
 * list.js, summary files: renaming
 * Parts: added three part summary filea and moved relevant data to them

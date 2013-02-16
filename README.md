@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-16 ~ Theo
+* Home page: edits providing further clarifications
+* Book Summary: spell check, minor edits
+* Chapter 1, section 2: adding to summary, editing and adding text
+
 2013-02-15 ~ Theo
 * Book Summery: edits, adding headers
 * Chapter 1, section 2: adding to summary, editing and adding text

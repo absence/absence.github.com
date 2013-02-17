@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-17 ~ Theo
+* Chapter 1, sections 3 and 4: adding to summary, editing and adding text
+
 2013-02-16 ~ Theo
 * Home page: edits providing further clarifications
 * Book Summary: spell check, minor edits

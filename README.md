@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-18 ~ Theo
+* style.css: increased left margin in viewer panel
+* Chapter 1: started changing 'this section' parts into bulleted lists
+* Chapter 1, section 4: adding to summary especially machine organism diffs
+
 2013-02-17 ~ Theo
 * Chapter 1, sections 3 and 4: adding to summary, editing and adding text
 

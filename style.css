@@ -62,10 +62,10 @@
 
   #viewer {
     border: 0px;
-    margin-left: 260px;
-    width: -webkit-calc(100% - 260px);
-    width: -moz-calc(100% - 260px);
-    width: calc(100% - 260px);
+    margin-left: 320px;
+    width: -webkit-calc(100% - 320px);
+    width: -moz-calc(100% - 320px);
+    width: calc(100% - 320px);
     height: 100%;
     overflow: auto;
   }

@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-19 ~ Theo
+* Chapter 1, section 5: adding to text and summary
+
 2013-02-18 ~ Theo
 * style.css: increased left margin in viewer panel
 * Chapter 1: started changing 'this section' parts into bulleted lists

@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-21 ~ Theo
+* Chapter 0: Every 'This section' with bullets. Editing throughout
+* Chapter 1: Minor edits throughout
+* Chapter 2: cleaning up the source code
+
 2013-02-19 ~ Theo
 * Chapter 1, section 5: adding to text and summary
 

@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-02-27 ~ Theo
+* Chapter 2, sections 2 and 3: adding and editing text and key words
+
 2013-02-26 ~ Theo
 * Chapter 2, sections 1 and 2: adding and editing text and key words
  

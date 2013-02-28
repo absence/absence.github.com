@@ -44,6 +44,7 @@ var list = {
 			['Emergence', '3-explanations/emergence/emergence'],
 			['Ententional', '3-explanations/ententional/ententional'],
 			['Homeodynamics', '3-explanations/homeodynamics/homeodynamics'],
+			['Homunculus', '3-explanations/homunculus'],
 			['Morphodynamics', '3-explanations/morphodynamics/morphodynamics'],
 			['Self', '3-explanations/self/self'],
 			['Teleodynamics', '3-explanations/teleodynamics/teleodynamics']

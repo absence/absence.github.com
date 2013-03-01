@@ -10,11 +10,14 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-03-01 ~ Theo
+* Chapter 2, section 6: adding and editing text and summary
+
 2013-02-28 ~ Theo
 * Chapter 2: added 'this section' to all sections
 * Explanations: added Homunculus page
 * Chapter 2 sections 1-4: started adding this section text
-* Chapter 2, section 4: adding and editing text
+* Chapter 2, section 5: adding and editing text
 
 2013-02-27 ~ Theo
 * Chapter 2, sections 2 and 3: adding and editing text and key words

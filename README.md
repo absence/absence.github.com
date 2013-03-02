@@ -11,6 +11,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 ### Change Log
 
 2013-03-01 ~ Theo
+* Chapter 2, sections 7-8: adding and editing text and summary
+
+2013-03-01 ~ Theo
 * Chapter 2, section 6: adding and editing text and summary
 
 2013-02-28 ~ Theo

@@ -11,6 +11,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 ### Change Log
 
 2013-03-04 ~ Theo
+* Chapters 0-1: prettifying, paging
+
+2013-03-04 ~ Theo
 * Chapter 0: prettifying, paging
 
 2013-03-01 ~ Theo

@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-03-16 ~ Theo
+* Chapter 2-3: Adding bullets, hr and default text
+* Chapter 3: adding glossary items
+* Chapter 3: adding summary
+
 2013-03-04 ~ Theo
 * Chapters 0-1: prettifying, paging
 

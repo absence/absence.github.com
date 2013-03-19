@@ -10,9 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
-2013-03-17 ~ Theo
-* Chapter 2-3: completed adding topces covered.
+2013-03-19 ~ Theo
+* Chapter 3, section 3-5: adding page numbers summaries
 
+2013-03-17 ~ Theo
+* Chapter 2-3: completed adding topics covered.
 
 2013-03-16 ~ Theo
 * Chapter 2-3: Adding bullets, hr and default text

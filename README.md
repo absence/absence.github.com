@@ -10,6 +10,16 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-04-03 ~ 
+* Chapter 4, introduction: adding links, styling
+* Chapter 4, section 1: adding to sumarries, page numbers 
+
+2013-04-02 ~ Theo 
+* Chapter 4: fixing formatting
+
+2013-03-21 - 2013-04-01 ~ Theo
+* other projects
+
 * 2013-03-20 ~ Theo
 * Chapter 3, sections 5: adding to summaries
 

@@ -1,0 +1,35 @@
+I would like to typify every sentence used in this summery into half a dozem categories.
+
+I am writing about Deacon's work who in turn writes about other people's work who in turn write about yet other people's work.
+
+When I write a sentence I want to be able to identify the source amd purpose of that sentence. 
+
+First: Does the sentence I write summarize a thought belonging to Deacon or another? 
+
+Second: is the matrerial 'fresh meat' or somrthing else.
+
+All of this is part of the process of mechanizing the process of creating a summary.
+
+*** 
+
+recapitulation [ recap]: 
+A summary of somebody else's thoughts or research. 
+Text that may be independently verified and cross-checked for veracity. 
+Very often historical in nature
+- also history? What would be the difference between the two?
+
+observation:
+A comment or opinion offered by the author regarding the recapitulation
+
+criticism: 
+A finding by the author of an issue/error/caveat in the thinking out of a procress described in a recapitulation
+
+assertion: 
+A statement or position taken by the authour that is fresh meat  
+
+example: 
+a thought experiment offered as justification/guidance 
+
+parable:
+A descriptive metaphor or example of an observation
+Often used to introduce a complex observation 

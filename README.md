@@ -10,11 +10,15 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
-2013-04-07 ~ 
+2013-04-09 ~ Theo
+* Notes: added description as a type
+* Chapter 4, section 2: added page numbers and text throughout
+
+2013-04-07 ~ Theo
 * Notes: added notes.txt with first thoughts of typifying summary sentences
 * Chapter 4: added types to summary sentence for several sections
 
-2013-04-03 ~ 
+2013-04-03 ~ Theo
 * Chapter 4, introduction: adding links, styling
 * Chapter 4, section 1: adding to sumarries, page numbers 
 

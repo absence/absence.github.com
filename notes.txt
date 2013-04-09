@@ -12,14 +12,21 @@ All of this is part of the process of mechanizing the process of creating a summ
 
 *** 
 
+
+
+description
+A restating of knowledge that is generally thought to be true/readily obsrvable/reproducuble/evidence-based among the well-read.
+
 recapitulation [ recap]: 
-A summary of somebody else's thoughts or research. 
+A summary of a particular person's thoughts or research. 
 Text that may be independently verified and cross-checked for veracity. 
 Very often historical in nature
 - also history? What would be the difference between the two?
 
 observation:
-A comment or opinion offered by the author regarding the recapitulation
+A comment or opinion offered by the author regarding the recapitulation or description 
+- more personal in nature
+- less frequently observed/above the mormal point of view. 
 
 criticism: 
 A finding by the author of an issue/error/caveat in the thinking out of a procress described in a recapitulation

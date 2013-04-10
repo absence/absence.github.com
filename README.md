@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-04-10 ~ Theo
+* Notes: added question as a type. Added more formatting
+* Chapter 4, section 1-2: more tidying
+
 2013-04-09 ~ Theo
 * Notes: added description as a type
 * Chapter 4, section 2: added page numbers and text throughout

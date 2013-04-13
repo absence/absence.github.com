@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-04-12 ~ Theo
+* Chapter 4, section 3: still working on it
+
 2013-04-11 ~ Theo
 * Chapter 4, section 3: add page numbers and improve
 * Types: added a few more such as caveat and guidance

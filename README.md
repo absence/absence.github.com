@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-04-19 ~ Theo
+* Chapter 4, section 6: working on summary
+
 2013-04-17 ~ Theo
 * Chapter 4, sections 5 & 6: working on summaries
 

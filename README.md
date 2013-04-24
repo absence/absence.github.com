@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-04-24 ~ Theo
+* Chapter 5: tidying and formatting
+
 2013-04-23 ~ Theo
 * Chapter 0-4: tidying
 

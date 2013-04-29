@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-04-29 ~ Theo
+* Chapter 5 sections 1-2; adding page numbers
+* Chapter 5: spell check
+
 2013-04-28 ~ Theo
 * Epilogue: formatting 
 * Epilogue section 1: adding new text

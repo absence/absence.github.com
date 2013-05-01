@@ -10,9 +10,12 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
-2013-04-30 ~ Tho
-* Chapter 0,1,2,3,4 + book summary: spell check, titles to uppercase
+2013-05-01 ~ Theo
+* Chapter 4, section 4: page numbers, adding to summary
+* Ckapter 5, sections 4,5,6: page numbers
 
+2013-04-30 ~ Theo
+* Chapter 0,1,2,3,4 + book summary: spell check, titles to uppercase
 
 2013-04-29 ~ Theo
 * Chapter 5 sections 1-2; adding page numbers

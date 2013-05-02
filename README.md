@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-02 ~ Theo
+* Chapter 5, section 7, page numbers, adding to summary
+* Chapter 5, summary: edits
+
 2013-05-01 ~ Theo
 * Chapter 4, section 4: page numbers, adding to summary
 * Ckapter 5, sections 4,5,6: page numbers

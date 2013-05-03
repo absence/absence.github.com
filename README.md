@@ -10,13 +10,17 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-03 ~ Theo
+* Chpters 0-5: all sections have resonable page numbers
+* Chapter 4,5: section summaries are OK
+
 2013-05-02 ~ Theo
 * Chapter 5, section 7, page numbers, adding to summary
 * Chapter 5, summary: edits
 
 2013-05-01 ~ Theo
 * Chapter 4, section 4: page numbers, adding to summary
-* Ckapter 5, sections 4,5,6: page numbers
+* Chapter 5, sections 4,5,6: page numbers
 
 2013-04-30 ~ Theo
 * Chapter 0,1,2,3,4 + book summary: spell check, titles to uppercase

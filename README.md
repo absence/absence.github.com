@@ -10,6 +10,11 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-05 ~ Theo
+* Copyright and License: edits
+* Chapter 0: section summaries: edits
+* Book Summary: edits - add title
+
 2013-05-03 ~ Theo
 * Chpters 0-5: all sections have resonable page numbers
 * Chapter 4,5: section summaries are OK

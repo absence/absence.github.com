@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-07 ~ Theo
+* Chpaters 2,3,4: section summaries edited
+* Home page: edited
+
 2013-05-05 ~ Theo
 * Copyright and License: edits
 * Chapter 0,1: section summaries: edits

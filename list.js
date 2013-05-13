@@ -2,13 +2,14 @@ var list = {
 	'Summary': {
 		'Overview': [
 			[ 'Home Page','1-overview/overview/1Home-Page' ],
+			[ 'Read Me','1-overview/overview/0readme' ],
 			[ 'Book Summary','1-overview/overview/2Book-Summary' ],
 			[ 'Absence Code Demo','1-overview/overview/3Absence-Code-Demo' ],
-			[ 'Credits','1-overview/overview/4Credits' ],
-			[ 'License','1-overview/overview/5License' ]
+			[ 'Credits & Timeline','1-overview/overview/4Credits' ],
+			[ 'Copyright & License','1-overview/overview/5License' ]
 		],
 		'Part 1 ~ Outlining the Problem': [
-			[ 'Read Me','2-summary/1part/000readme' ],
+			
 			[ 'Part 1 Summary','2-summary/1part/000part1' ],
 			[ 'Chapter 0 ~ Absence','2-summary/1part/00absence' ],
 			[ 'Chapter 1 ~ (W)holes','2-summary/1part/01w-holes' ],

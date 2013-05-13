@@ -23,7 +23,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 2013-05-05 ~ Theo
 * Copyright and License: edits
-* Chapter 0,1: section summaries: edits
+* Chapters 0,1: section summaries: edits
 * Book Summary: edits - add title
 
 2013-05-03 ~ Theo

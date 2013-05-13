@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-13 ~ Theo
+* home page, Read Me, list.js: additions and edits
+
 2013-05-09 ~ Theo
 * Part 1, summary: adding questions
 

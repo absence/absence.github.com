@@ -1,7 +1,7 @@
 absence.github.com
 ==================
 
-This web site provides helpful, supportive and supplementary material for _Incomplete Nature_, a book by Terence Deacon.
+This repository provides helpful, supportive and supplementary material for _Incomplete Nature_, a book by Terence Deacon.
 
 A summary of the book - a work-in-progress - is available here: [absence.github.com] (http://absence.github.com)
 
@@ -9,6 +9,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 
 ### Change Log
+
+2013-05-15 ~ Theo
+* index.html: fixed start-up link
+* Index: added links from chapters 1,2
 
 2013-05-14 ~ Theo
 * list.js: reorg

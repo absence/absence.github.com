@@ -45,6 +45,7 @@ var list = {
 			['Topics', '3-explanations/0-readme/Read-Me'],
 		],	
 		'Expanded Glossary': [	
+			['Read Me', '3-explanations/readme'],
 			['Absential', '3-explanations/absential/absential'],
 			['Autogen', '3-explanations/autogen/autogen'],
 			['Constraints', '3-explanations/constraints/constraints'],

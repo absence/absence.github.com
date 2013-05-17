@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-17 ~ Theo
+* Index: added links part chapter 3
+
 2013-05-16 ~ Theo
 * Topics & list.js: Deacon's key words split off into readme.html
 * Index: added links part chapter 3

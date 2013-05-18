@@ -42,7 +42,7 @@ var list = {
 	},
 	'Index & Glossary': {	
 		'Expanded Index': [
-			['Topics', '3-explanations/0-readme/Read-Me'],
+			['Topics', '3-explanations/0-topics/topics'],
 		],	
 		'Expanded Glossary': [	
 			['Read Me', '3-explanations/readme'],

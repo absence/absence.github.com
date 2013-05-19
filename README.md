@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-19 ~ Theo
+* Topics: added links chapter 4
+
 2013-05-18 ~ Theo
 * list.js: change readme to topics
 * Topics: finished adding links part chapter 3

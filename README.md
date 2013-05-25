@@ -10,6 +10,9 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-25 ~ Thep
+* Topics: added links chapter 5, section 1-3
+
 2013-05-19 ~ Theo
 * Topics: added links chapter 4
 

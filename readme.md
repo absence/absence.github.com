@@ -10,7 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
-2013-05-26 ~ Thep
+2013-05-29 ~ Theo
+* Overview - Chapter 5: spellchecked
+
+2013-05-26 ~ Theo
 * Topics: added links chapter 5, section 3-5
 
 2013-05-25 ~ Thep
@@ -61,7 +64,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 * Book Summary: edits - add title
 
 2013-05-03 ~ Theo
-* Chpters 0-5: all sections have resonable page numbers
+* Chapters 0-5: all sections have reasonable page numbers
 * Chapter 4,5: section summaries are OK
 
 2013-05-02 ~ Theo
@@ -131,7 +134,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 2013-04-03 ~ Theo
 * Chapter 4, introduction: adding links, styling
-* Chapter 4, section 1: adding to sumarries, page numbers 
+* Chapter 4, section 1: adding to summaries, page numbers 
 
 2013-04-02 ~ Theo 
 * Chapter 4: fixing formatting
@@ -210,12 +213,12 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 2013-02-14 ~ Theo
 * list.js, summary files: renaming
-* Parts: added three part summary filea and moved relevant data to them
-* Overview: added book sumary and moved relevant data there
+* Parts: added three part summary files and moved relevant data to them
+* Overview: added book summary and moved relevant data there
 
 2013-02-13 ~ Theo
 * index.html and style.css: edit so docTree draws Inconsolata font from Google Fonts
-* Chapter 1: editing text and layout thoughout
+* Chapter 1: editing text and layout throughout
 * Chapter 1, section 1: adding summary, editing and adding text
 
 2013-02-10 ~ Theo
@@ -234,7 +237,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 * Chapter 5: section 6: added summary and links
 
 2013-02-07 ~ Theo
-* Chapter 5: added links to wikipedia and explanations definitions of emergence
+* Chapter 5: added links to Wikipedia and explanations definitions of emergence
 * Chapter 5: Added more Wikipedia links
 * Chapter 5: section 5: added summary
 
@@ -245,7 +248,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 * docTree: simplifying the folder structure, using parts not chapters, renaming files
 * Chapter 3: added Wikipedia image of Golem
 * Chapter 5, section 3: added summary
-* Chapter 5, started section 4 and cleaning up format of remaing sections
+* Chapter 5, started section 4 and cleaning up format of remaining sections
 
 
 2013-02-04 ~ Theo
@@ -274,7 +277,7 @@ A wiki with further material is available here: https://github.com/absence/absen
 * Summary, Chapter 1; added to the summary, cleaned up the HTML
 
 2013-01-27 ~ Theo
-* Summary, Chapter 4, section 6: adding summary. A few edits throughtout the chapter
+* Summary, Chapter 4, section 6: adding summary. A few edits throughout the chapter
 
 2013-01-26 ~ Theo
 * Summary, code: update to latest version of my docTree JavaScript file

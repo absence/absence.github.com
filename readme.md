@@ -10,8 +10,13 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-30 ~ Theo
+* Part 2: spellchecked
+* Topics: added links chapter 5, section 3-5 - more work
+
 2013-05-29 ~ Theo
 * Overview - Chapter 5: spellchecked
+* Topics: added links chapter 5, section 3-5 - more work
 
 2013-05-26 ~ Theo
 * Topics: added links chapter 5, section 3-5

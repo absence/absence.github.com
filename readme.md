@@ -10,6 +10,12 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-05-31 ~ Theo
+* Part 3: spell-checked & html tidied
+* Evernote: tidied and archived
+* Readme: added text
+
+
 2013-05-30 ~ Theo
 * Part 2: spellchecked
 * Topics: added links chapter 5, section 3-5 - more work

@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-06-01 ~ Theo
+* Evernote: adding to 'Methods'
+* Overview, readme: additions
+
 2013-05-31 ~ Theo
 * Part 3: spell-checked & html tidied
 * Evernote: tidied and archived

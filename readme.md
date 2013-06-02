@@ -10,6 +10,10 @@ A wiki with further material is available here: https://github.com/absence/absen
 
 ### Change Log
 
+2013-06-02 ~ Theo
+* Home Page: figured out how to do multi-word internal links
+* Overview, readme: additions
+
 2013-06-01 ~ Theo
 * Evernote: adding to 'Methods'
 * Overview, readme: additions

@@ -12,7 +12,7 @@ When one object approaches within one unit of another, the second object is dele
 This app was created just to get things started. Who knows what release 23 will do? 
 
 But even release 1 is of interest as the eventual winner - despite all the apparent randomness is quite predicatble. 
-If nothing else, release 2 could/should highlight the inhent von Neuman-related biases.
+If nothing else, release 2 could/should highlight the inherent von Neuman-related biases.
 
 You will need a computer and browser that supports [WebGL](http://get.webgl.org/) in order to view the app. Use the Google Chrome browser if you can.
 The app is unlikely to work on your phone or tablet - though there are exceptions and slow performance is likely to be an issue.
@@ -25,6 +25,10 @@ You may pan, zoom and rotate the display using your mouse or touchpad:
 The smaller cubes cast shadows on the table. This is to help you gauge the total number of objects being displayed. 
 
 The name 'ottojenny' is a play on: Deacon's autogen; two people joining totogether; and complex devices we make such otto for automobile and jenny as in spinning-jenny
+
+###Issues
+The small cubes seem to disappear momentarily. That may well be due to their being inside another cube.
+
 
 ###Change Log
 

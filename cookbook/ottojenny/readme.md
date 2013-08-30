@@ -1,7 +1,7 @@
 ottojenny
 =========
 
-Live Demo: http://ansence.github.io/cookbook/ottojenny/r1/ottojenny.html
+Live Demo: http://absence.github.io/cookbook/ottojenny/r1/ottojenny.html
 
 Ottojenny Release 1 is an extremely basic app ( the simplest that Theo could think of ) that 
 shows one object interacting with another (by 'gobbling' it). 

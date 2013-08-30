@@ -1,7 +1,7 @@
 Absence Cookbook
 ================
 
-Coding examples relating to the aAbsence project
+Coding examples relating to the Absence project
 
 ###Change Log
 

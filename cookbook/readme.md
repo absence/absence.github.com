@@ -1,7 +1,11 @@
 Absence Cookbook
 ================
 
-Coding examples relating to the Absence project
+Coding examples relating to the Absence project.
+
+
+Live demo of ottojenny r1: http://absence.github.io/cookbook/ottojenny/r1/ottojenny.html
+
 
 ###Change Log
 

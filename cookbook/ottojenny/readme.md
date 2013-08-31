@@ -26,6 +26,11 @@ The smaller cubes cast shadows on the table. This is to help you gauge the total
 
 The name 'ottojenny' is a play on: Deacon's autogen; two people joining totogether; and complex devices we make such otto for automobile and jenny as in spinning-jenny
 
+###Roadmap
+The intent is to create a series of procedures that cause objects to interact in such a way that they form new objecta 
+that have capabilities that none of their compenents have. The route to that goal is likelt to be through many small updates 
+eaching adding just a fix or feature or two. In other words, the app will evolve into what it could be... 
+
 ###Issues
 The small cubes seem to disappear momentarily. That may well be due to their being inside another cube.
 

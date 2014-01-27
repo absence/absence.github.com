@@ -41,7 +41,7 @@
 			' - Credits: <a href="http://www.khronos.org/webgl/" target="_blank">WebGL</a> - <a href="http://three.js.org" target="_blank">Three.js</a><br>' +
 		'';
 		
-		renderer = new THREE.WebGLRenderer( { antialias: true }  );	
+		renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true, clearColor: 0xffffff }  );	
 		renderer.setSize( window.innerWidth, window.innerHeight );
 
 		document.body.appendChild( renderer.domElement );
